@@ -13,3 +13,9 @@ Cheah Ye Ian
 Choo Cheng Wai
 
 Lim Zhan Yi
+
+I am 19 and I am studying engineering in Monash University. I live in Bandar Sri Damansara, Kuala Lumpur. My hobbies are sports, gaming and watching anime.
+
+Role in project: Assignment uploader
+
+Preferred branch of engineering: Electrical and Computer Systems
